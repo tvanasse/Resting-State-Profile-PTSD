@@ -1,0 +1,50 @@
+SDR order,SDR,Pattern
+1,SDR 2-1,Trauma Decreasing
+2,SDR 2-2,PTSD < CC
+3,SDR 2-3 ,PTSD < CC
+4,SDR 2-4 ,Trauma Increasing
+5,SDR 4-1,Trauma Decreasing
+6,SDR 4-2,Trauma Decreasing
+7,SDR 5-1,Trauma Decreasing
+8,SDR 5-2,Trauma Increasing
+9,SDR 6-1,Trauma Decreasing
+10,SDR 6-2,PTSD > CC
+11,SDR 8-1,PTSD < CC
+12,SDR 8-2,PTSD < CC
+13,SDR 8-3,Trauma Decreasing
+14,SDR 8-4,PTSD > CC
+15,SDR 8-5,PTSD > CC
+16,SDR 9-1,Trauma Decreasing
+17,SDR 9-2,Trauma Increasing
+18,SDR 9-3,PTSD > CC
+19,SDR 10-1,Trauma Increasing
+20,SDR 10-2,Trauma Increasing
+21,SDR 11-1,PTSD < CC
+22,SDR 11-2,Trauma Decreasing
+23,SDR 11-3,PTSD < CC
+24,SDR 11-4,Trauma Increasing
+25,SDR 13-1,PTSD < CC
+26,SDR 13-2,Trauma Increasing
+27,SDR 15-1,Trauma Decreasing
+28,SDR 15-2,PTSD < CC
+29,SDR 18-1,Trauma Decreasing
+30,SDR 18-2,Trauma Decreasing
+31,SDR 18-3,PTSD < CC
+32,SDR 18-4,PTSD < CC
+33,SDR 18-5,Trauma Increasing
+34,SDR 18-6,Trauma Increasing
+35,SDR 18-7,Trauma Increasing
+36,SDR 18-8,Trauma Increasing
+37,SDR 18-9,PTSD > CC
+38,SDR 4-3,TEC < CC
+39,SDR 5-3,TEC > CC
+40,SDR 8-6,TEC > CC
+41,SDR 9-4,TEC < CC
+42,SDR 9-5,TEC < CC
+43,SDR 10-3,TEC > CC
+44,SDR 15-3,TEC < CC
+45,SDR 15-4,TEC < CC
+46,SDR 15-5,TEC > CC
+47,SDR 15-6,TEC > CC
+48,SDR 18-10,TEC > CC
+49,SDR 18-11,TEC > CC
